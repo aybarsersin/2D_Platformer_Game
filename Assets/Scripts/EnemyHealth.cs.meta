@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a6b912f71869d264db1170c8255f3fd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpBar: {instanceID: 0}
+  - blood: {fileID: 7203750076707508047, guid: 1b4be39a888bd8148947f15d5132932b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
